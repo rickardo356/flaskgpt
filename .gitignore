@@ -1,0 +1,4 @@
+# Fichiers d'environnement (sensibles)
+.env
+.env.local
+.env*.local
